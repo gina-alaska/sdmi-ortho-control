@@ -17,10 +17,10 @@
     <mapcanvas>
         <units>meters</units>
         <extent>
-            <xmin>-1283299.36769669316709042</xmin>
-            <ymin>476593.77398636192083359</ymin>
-            <xmax>2227382.89637121930718422</xmax>
-            <ymax>2413754.12813636753708124</ymax>
+            <xmin>-65559.51587006732006557</xmin>
+            <ymin>1323680.55109801748767495</ymin>
+            <xmax>373275.76713842083700001</xmax>
+            <ymax>1565825.5953667676076293</ymax>
         </extent>
         <projections>1</projections>
         <destinationsrs>
@@ -403,10 +403,10 @@
                     <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
                 </edittype>
             </edittypes>
-            <editform>.</editform>
+            <editform></editform>
             <editforminit></editforminit>
             <featformsuppress>0</featformsuppress>
-            <annotationform>.</annotationform>
+            <annotationform></annotationform>
             <editorlayout>generatedlayout</editorlayout>
             <excludeAttributesWMS/>
             <excludeAttributesWFS/>
@@ -739,10 +739,10 @@
                     <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
                 </edittype>
             </edittypes>
-            <editform>.</editform>
+            <editform></editform>
             <editforminit></editforminit>
             <featformsuppress>0</featformsuppress>
-            <annotationform>.</annotationform>
+            <annotationform></annotationform>
             <editorlayout>generatedlayout</editorlayout>
             <excludeAttributesWMS/>
             <excludeAttributesWFS/>
